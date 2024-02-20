@@ -1,18 +1,40 @@
-<h1 align="center">Hi 👋, I'm Leya Kurian</h1>
-<h3 align="center">A passionate student about AI and its related domains</h3>
+<h1 align="center">Hi there! I'm Leya Kurian 👋</h1>
+<h4 align="center">A dedicated learner with a profound interest in artificial intelligence and its wide-ranging applications. I am fascinated by the potential of AI to revolutionize industries and improve lives.</h4>
 
-- 🔭 I’m currently working on **Speaker Recognition model**
+- 🔭 I’m currently working on **developing an innovative Speaker Recognition model**
+  
+- 🌱 I’m constantly learning and diving deeper into **machine learning, deep learning, and neural networks**
 
-- 🌱 I’m currently learning **machine learning,deep learning,neural networks**
+- 💬 Feel free to ask me about **my latest Python projects or anything related to C programming**
 
-- 💬 Ask me about **python and c**
+- 📫 You can connect with me via email at **leyahoney2003@gmail.com**
 
-- 📫 How to reach me **leyahoney2003@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leya-kurian-8a1446228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leya-kurian-8a1446228" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/leya-kurian-8a1446228" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leya Kurian | LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
+<br/>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
