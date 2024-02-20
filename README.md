@@ -1,5 +1,6 @@
 <h1 align="center">Hi there! I'm Leya Kurian 👋</h1>
 <h4 align="center">A dedicated learner with a profound interest in artificial intelligence and its wide-ranging applications. I am fascinated by the potential of AI to revolutionize industries and improve lives.</h4>
+<br/> 
 
 - 🔭 I’m currently working on **developing an innovative Speaker Recognition model**
   
@@ -15,10 +16,16 @@
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/leya-kurian-8a1446228" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leya Kurian | LinkedIn" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/leyahoney2003" target="blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="Leya Kurian | HackerRank" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/leya.honey.18?igsh=MW5pMjdtNml5cDVhaA%3D%3D&utm_source=qr" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Leya Kurian | Instagram" height="30" width="30" />
   </a>
 </p>
 
-<br/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
