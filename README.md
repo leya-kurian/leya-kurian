@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leya-kurian&label=Profile%20views&color=0e75b6&style=flat" alt="leya-kurian" /> </p>
 
 <p align="center">
   <a href="https://github.com/leya-kurian/leya-kurian/blob/9ef80a42371289ca80c919fc2bd35de879ec89c6/giphy.gif">
