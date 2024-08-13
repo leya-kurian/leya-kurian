@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Web development and constantly diving deeper into machine learning, deep learning, and neural networks**
 
-- 📫 How to reach me **leyahoney2003@gmail.com**
+- 📫 How to reach me **leyakurian14@gmail.com**
 
 - ⚡ Fun fact **I am a singer**
 
